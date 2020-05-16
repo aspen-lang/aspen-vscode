@@ -1,0 +1,26 @@
+{
+  "comments": {
+    "lineComment": "--"
+  },
+  "autoClosingPairs": [
+    ["(", ")"],
+    ["[", "]"],
+    ["{", "}"]
+  ],
+  "brackets": [
+    ["(", ")"],
+    ["[", "]"],
+    ["{", "}"]
+  ],
+  "indentationRules": {
+    "increaseIndentPattern": "{",
+    "decreaseIndentPattern": "}",
+    "indentNextLinePattern": "(=>$)",
+    "unIndentedLinePattern": "let"
+  },
+  "surroundingPairs": [
+    ["(", ")"],
+    ["[", "]"],
+    ["{", "}"]
+  ]
+}
